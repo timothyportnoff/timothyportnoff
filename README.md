@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=timothyportnoff)
+
+Thank you for visiting my GitHub profile! I'm thrilled to have you here.
+
 <!--
 **timothyportnoff/timothyportnoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
