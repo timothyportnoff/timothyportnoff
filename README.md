@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi! I'm Timothy 👋
 
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=timothyportnoff)
-
-Thank you for visiting my GitHub profile! I'm thrilled to have you here.
+- 🔭 I’m currently working on my A.S. while freelancing to afford coffee and ramen.
+- 🌱 I’m currently learning scraping scripts!
+- 👯 I’m looking to collaborate on any projects that I can! Submit a pull request if you want to work with me, and feel free to fork any repositories if you had any ideas in mind.
+- 🤔 If you have any questions about my projects, or if you need help with anything, I'm always here to assist.
+- ⚡ I want to learn more about application development, mainly so I can visualize my projects betters.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -16,3 +16,8 @@ Thank you for visiting my GitHub profile! I'm thrilled to have you here.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=timothyportnoff)
+
+Thank you for visiting my GitHub profile! I'm thrilled to have you here.
