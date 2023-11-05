@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning scraping scripts!
 - 👯 I’m looking to collaborate on any projects that I can! Submit a pull request if you want to work with me, and feel free to fork any repositories if you had any ideas in mind.
 - 🤔 If you have any questions about my projects, or if you need help with anything, I'm always here to assist.
-- ⚡ I want to learn more about application development, mainly so I can visualize my projects betters.
+- ⚡ I want to learn more about application/GUI development, so I can showcase my projects visually.
 
 <!--
 - 🔭 I’m currently working on ...
