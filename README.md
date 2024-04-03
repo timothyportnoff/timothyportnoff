@@ -3,7 +3,7 @@
 - 🔭 A.S. in Information Technology and Google IT certificates
 - 🤔 If you have any questions about my projects or want help, please DM! I love collaborating
 - ⚡ Right now, I'm interested in:
- - - Scripting with API calls to AI networks
+  - Scripting with API calls to AI networks
  - app /GUI development, so I can showcase my projects visually
  - creating 2D videogames with UE5 
  - Sleep
