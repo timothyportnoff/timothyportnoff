@@ -4,10 +4,10 @@
 - 🤔 If you have any questions about my projects or want help, please DM! I love collaborating
 - ⚡ Right now, I'm interested in:
   - Scripting with API calls to AI networks
- - app /GUI development, so I can showcase my projects visually
- - creating 2D videogames with UE5 
- - Sleep
-- 🌱 scrip scraper, all I consume is coffee and ramen
+  - app /GUI development, so I can showcase my projects visually
+  - creating 2D videogames with UE5 
+  - Sleep
+- 🍜 All I consume is coffee and ramen
 
 <!--
 - 🔭 I’m currently working on ...
