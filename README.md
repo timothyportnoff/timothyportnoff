@@ -1,6 +1,6 @@
 ### Hi! I'm Timothy 👋
 
-- 🔭 A.S. in Information Technology and Google IT certificates
+- 🔭 Freakin' computer nerd
 - 🤔 If you have any questions about my projects or want help, please DM! I love collaborating
 - ⚡ Right now, I'm interested in:
   - Scripting with API calls to AI networks
