@@ -19,8 +19,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Profile Views
-
+## This is the total number of Profile Views I have: 
 ![Profile Views](https://komarev.com/ghpvc/?username=timothyportnoff)
 
-Thank you for visiting my GitHub profile! I'm thrilled to have you here.
+## Buy me a coffee but in reality you're just buying the beans so I can make it myself:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M516AAWZ)
