@@ -18,6 +18,7 @@
 -->
 ## This is the total number of Profile Views I have: 
 ![Profile Views](https://komarev.com/ghpvc/?username=timothyportnoff)
+(It goes up if you refresh the page, lol)
 
 ## Buy me a coffee?
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M516AAWZ)
